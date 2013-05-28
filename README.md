@@ -14,7 +14,7 @@ This repo is aimed at providing a reliable list of Countries accompanied with re
 
 Its also available as a Gist [here](https://gist.github.com/MrSunshyne/5662107)
 
-A sample application is included in the repo. It demonstrates the usage of this dataset with Google Maps API. 
+A sample application is included in the repo. It demonstrates the usage of this dataset with Google Maps API. The latitude and longitude have been used to plot the flags on the world map. Simple when you have the data. :)
 
 ## [Click to view demo](http://mrsunshyne.github.io/demo/world-countries-resource/)
 
