@@ -22,4 +22,7 @@ A sample application is included in the repo. It demonstrates the usage of this 
 Of course, I didnt invent or measure all these data. Here are the sources :
 
 * List of countries were taken from [Wikipedia](http://en.wikipedia.org/wiki/ISO_3166-1)
-* Flags were forked from [4Chan](https://github.com/4chan/4chan-API)    
+* Flags were forked from [4Chan](https://github.com/4chan/4chan-API)
+
+### Todo
+* Add phone codes.
